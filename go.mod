@@ -1,4 +1,4 @@
-module skv
+module github.com/rickiey/skv
 
 go 1.16
 
