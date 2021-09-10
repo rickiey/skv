@@ -1,4 +1,4 @@
-package main
+package skv
 
 import (
 	"context"
